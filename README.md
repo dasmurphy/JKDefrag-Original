@@ -28,8 +28,8 @@ Why use this defragger instead of the standard Windows defragger?
  	- Supports x86/x64 architecture.
 
 JKDefrag is an open source software by Jeroen Kessels,
-this is the "3.36" version, since from version 4, 
+this is the "3.36" version, since from version 4,
 it was changed to "MyDefrag", which is a closed source freeware.
 ```
 
-latest pre-build can be found here: http://icompile.eladkarako.com/jkdefrag/
+latest pre-build can be found here: hxxp://icompile.eladkarako.com/jkdefrag/ (not working any more)
